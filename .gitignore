@@ -37,5 +37,4 @@ out/
 .vscode/
 
 ### properties ###
-application-oauth.properties
-application.properties
+/Users/burningyak/Desktop/BurningYak/tago/src/main/resources/application.properties
